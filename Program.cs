@@ -35,6 +35,17 @@ namespace first_csharp
             }
         }
 
+        // Find Max
+        public static void ArrayMax(int [] arr) {
+            int max = 0;
+            for(int i = 0; i < arr.Length; i++){
+                if(arr[i] > max){
+                    max = arr[i];
+                }
+            }
+            Console.WriteLine(max);
+        }
+
         
         static void Main(string[] args)
         {
@@ -43,16 +54,7 @@ namespace first_csharp
             PrintSum();
             int[] myArr = new int[6] { 1, 3, 5, 7, 9, 13 };
             ArrayIterate(myArr);
-
-            // Find Max
-            int[] arr = { -1, 3, -5, 0, 19, 13 };
-            int max = 0;
-            for(int i = 0; i < arr.Length; i++){
-                if(arr[i] > max){
-                    max = arr[i];
-                }
-            }
-            Console.WriteLine(max);
+            ArrayMax(myArr);
 
             // Find Average
             int[] arr = { 1, 2, 3, 4, 5, 1, 1, 1 };
