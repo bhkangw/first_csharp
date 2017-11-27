@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.deps.json
+/Users/bkila/Desktop/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.json
+/Users/bkila/Desktop/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.dev.json
+/Users/bkila/Desktop/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.dll
+/Users/bkila/Desktop/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/bkila/Desktop/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfo.cs
+/Users/bkila/Desktop/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.dll
+/Users/bkila/Desktop/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/bkila/Desktop/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.csproj.CoreCompileInputs.cache
