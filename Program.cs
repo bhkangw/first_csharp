@@ -7,6 +7,7 @@ namespace first_csharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // comment
         }
     }
 }
